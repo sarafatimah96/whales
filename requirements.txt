@@ -1,0 +1,9 @@
+mapclassify
+pysal==1.14.4
+imageio
+geopandas
+pandas
+matplotlib
+contextily
+numpy
+shapely
